@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="codding" width="400" src="codding.png.gif" >
 
+- 🌱 I’m currently learning **JavaScript**
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
