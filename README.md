@@ -1,3 +1,4 @@
+![logo](banner.png.png)
 <h1 align="center">Hi 👋, I'm Sojol</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="codding" width="400" src="codding.png.gif" >
